@@ -83,7 +83,15 @@
      },
     "蜂巢": {
       "api": "https://api.fczy888.me/api.php/provide/vod",
-      "name": "蜂巢资源" 
+      "name": "蜂巢资源"
+     },
+    "索尼": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼资源"
+     },
+    "光速": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "name": "光速资源" 
     }
   }
 }
